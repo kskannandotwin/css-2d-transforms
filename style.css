@@ -4,8 +4,9 @@ img {
     margin: auto;
     margin-top: 200px;
     transition: transform 2s;
+    transform-origin: top;
 }
 
 img:hover {
-    transform: skew(20deg, 40deg);
+    transform: rotate(45deg);
 }
