@@ -7,5 +7,5 @@ img {
 }
 
 img:hover {
-    transform: rotate(200grad);
+    transform: skew(20deg, 40deg);
 }
