@@ -7,5 +7,5 @@ img {
 }
 
 img:hover {
-    transform: scale(.25);
+    transform: rotate(200grad);
 }
